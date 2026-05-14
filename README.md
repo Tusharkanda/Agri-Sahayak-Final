@@ -197,7 +197,8 @@ Our vision is to evolve Agri-Sahayak from a trusted advisor into a predictive co
 ## 👥 Team
 
 - **Sachin Choudhary**
-- **Bhavesh Kumar Sharma**
+- **Priyanshu Maniyar**
+- **Tushar Kanda**
 
 ## 🤝 Contributing
 
